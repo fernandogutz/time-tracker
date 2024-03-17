@@ -1,0 +1,13 @@
+header {
+  border-bottom: 1px solid #ffffff2f;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 32px;
+}
+
+form {
+  display: flex;
+}
